@@ -1,0 +1,5 @@
+package-lock.json
+package.json
+tailwind.config.cjs
+prettier.config.cjs
+postcss.config.cjs
